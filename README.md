@@ -1,2 +1,2 @@
 # _time-tracking-dashboard
-![](images/readmeImg.png)
+![](design/desktop-design.jpg)
